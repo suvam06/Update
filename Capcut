@@ -1,0 +1,29 @@
+{
+  "globalSettings": {
+    "laterButtonText": "Later"
+  },
+  "apps": [
+    {
+      "packageName": "com.updatechecker",
+      "showDialog": true,
+      "versionCode": 2,
+      "versionName": "1.1.0",
+      "forceUpdate": false,
+      "changelogTitle": "What's New",
+      "changelog": "⟢ New User Interface.\n⟢ Bug Fixes & Improvements.\n⟢ App performance enhanced.",
+      "updateButtonText": "Update Now",
+      "updateUrl": "https://play.google.com/store/apps/details?id=com.updatechecker"
+    },
+    {
+      "packageName": "com.another.app",
+      "showDialog": true,
+      "versionCode": 5,
+      "versionName": "2.5.1",
+      "forceUpdate": true,
+      "changelogTitle": "Urgent Update",
+      "changelog": "⟢ A critical security issue has been fixed.\n⟢ Please update immediately.",
+      "updateButtonText": "Update Immediately",
+      "updateUrl": "https://your-download-link.com/app.apk"
+    }
+  ]
+}
