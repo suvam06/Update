@@ -1,0 +1,51 @@
+{
+  "isDialogEnabled": true,
+  "showJoinDialog": true,
+  "showUpdateDialog": true,
+  "joinDialogTitle": "AppkaMods 2.0",
+  "joinDialogDescription": "• Welcome to AppkaMods2.0!\\n• All premium features are now unlocked.\\n• Enjoy a completely ad-free experience.",
+  "fullDialogDescription": "Welcome to AppkaMods 2.0\\n\\n• Premium features unlocked: in-app purchases and subscriptions pre-enabled where applicable.\\n\\n• Ads removed and extra custom settings added for enhanced usability.\\n\\n• Multiple APK variants available (stable, lite, & optimized builds) to fit different devices.\\n\\n• Safety first: files are scanned for common threats but cannot guarantee 100% security — install at your own risk.\\n\\n• Regular updates: we publish tested patch updates and bug fixes frequently.\\n\\n• Community support: Join the community channel to request mods or report issues by clicking on 'Join Now' Button.\\n\\n• Installation tips: enable Unknown Sources (or use Package Installer), back up data before installing, and prefer a clean uninstall of previous versions.\\n\\nDisclaimer: Mods are for educational & testing purposes only. Install responsibly and comply with your local laws.",
+  "joinLink": "https://t.me/+ZXoeIrrSVZs1MGNl",
+  "colors": {
+    "joinDialog": {
+      "backgroundColors": ["#0A1A2F", "#000000"],
+      "outlineColor": "#00A36C",
+      "buttonColors": ["#6A11CB", "#2575FC"]
+    },
+    "updateDialog": {
+      "backgroundColors": ["#0A1A2F", "#000000"],
+      "outlineColor": "#00A36C",
+      "buttonColors": ["#cb11ab", "#fc256f"]
+    },
+    "shared": {
+      "cardBackgroundColor": "#222428",
+      "cardOutlineColor": "#747474",
+      "cardBackgroundColors": ["#1A2636", "#0A1A2F"],
+      "closeButtonColor": "#222428"
+    }
+  },
+  "updateInfo": {
+    "latestVersionCode": 2,
+    "latestVersionName": "1.1.0",
+    "updateUrl": "https://t.me/+ZXoeIrrSVZs1MGNl",
+    "releaseNotes": "• New features added from JSON!\\n• Performance improvements.\\n• Bug fixes and stability enhancements.",
+    "howToUpdateUrl": "
+  },
+  "socialLinks": [
+    { "icon": "facebook.png", "url": " },
+    { "icon": "instagram.png", "url": " },
+    { "icon": "telegram.png", "url": " },
+    { "icon": "tiktok.png", "url": " },
+    { "icon": "youtube.png", "url": " }
+  ],
+  "moreApps": [
+    { "name": "CapCut Pro", "icon": "apps/capcut.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "Spotify", "icon": "apps/spotify.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "Telegram", "icon": "apps/telegram.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "YouTube", "icon": "apps/youtube.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "Lightroom", "icon": "apps/lightroom.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "Picsart", "icon": "apps/picsart.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "Alight Motion", "icon": "apps/alightmotion.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" },
+    { "name": "PhotoRoom", "icon": "apps/photoroom.png", "url": "https://t.me/+ZXoeIrrSVZs1MGNl" }
+  ]
+}
